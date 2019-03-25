@@ -1,6 +1,6 @@
-# Automation priority: null
+# Automation priority: 10
 # Automation status: TRANSMITTED
-# Test case importance: LOW
+# Test case importance: MEDIUM
 # language: fr
 Fonctionnalité: CdtA
   
