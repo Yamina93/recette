@@ -1,5 +1,5 @@
 # Automation priority: null
-# Automation status: WORK_IN_PROGRESS
+# Automation status: TRANSMITTED
 # Test case importance: HIGH
 # language: es 
 Característica: Comprobar la máquina de café
