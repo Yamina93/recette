@@ -1,6 +1,6 @@
-# Automation priority: 1500
-# Automation status: TRANSMITTED
-# Test case importance: VERY_HIGH
+# Automation priority: 999999996
+# Automation status: WORK_IN_PROGRESS
+# Test case importance: MEDIUM
 # language: es 
 Característica: Comprobar la máquina de café
 	Asegurarse de qué la máquina de café funciona correctamente
