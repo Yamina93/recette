@@ -1,6 +1,6 @@
 # Automation priority: 100
 # Automation status: TRANSMITTED
-# Test case importance: LOW
+# Test case importance: HIGH
 a# language: en 
 Feature: Check the coffee machine
 	The aim is to check that the coffee machine works properly.
