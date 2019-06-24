@@ -1,4 +1,4 @@
-# Automation priority: 10
+# Automation priority: 11
 # Automation status: TRANSMITTED
 # Test case importance: HIGH
 # language: de
