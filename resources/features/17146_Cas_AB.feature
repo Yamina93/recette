@@ -1,6 +1,6 @@
 # Automation priority: 100
 # Automation status: TRANSMITTED
-# Test case importance: LOW
+# Test case importance: VERY_HIGH
 # language: fr
 Fonctionnalité: Cas_A
   
