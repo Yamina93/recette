@@ -3,8 +3,6 @@
 # Test case importance: LOW
 # language: fr
 Fonctionnalité: CT Gherkin 3
-  
-  	Scénario: Vérifier que la machine est disponible.
-		Etant donné que la machine est branchée.
-		Quand je passe mon badge.
-		Alors je constate que mon solde s'affiche.
+  Etant donné que je suis un testeur
+  Quand je rédige en Gherkin
+  Alors Je dois pouvoir automatisé ce test
