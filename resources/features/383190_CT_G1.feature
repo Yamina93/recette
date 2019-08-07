@@ -1,6 +1,6 @@
 # Automation priority: null
 # Automation status: TRANSMITTED
-# Test case importance: LOW
+# Test case importance: VERY_HIGH
 # language: fr
 Fonctionnalité: CT G1
     Scénario:
