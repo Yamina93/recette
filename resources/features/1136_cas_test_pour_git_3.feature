@@ -44,3 +44,4 @@ Funktionalität: Die Kaffeemaschine prüfen
 		| Lungo				| 0.50   |
 		| Cappuccino	| 0.80   |
 
+LienTM/TA/GIT2018
