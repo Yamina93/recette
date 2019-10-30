@@ -1,3 +1,3 @@
-# Automation priority: 10
+# Automation priority: 12
 # Automation status: TRANSMITTED
 # Test case importance: LOW
