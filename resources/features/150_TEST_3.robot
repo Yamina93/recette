@@ -24,3 +24,7 @@ Reset password of 1st minor user
     Set New Cypher              ${id}
     Set New Password            ${id}
     Save Last List
+
+Script modified
+    Get your script
+    Change it
