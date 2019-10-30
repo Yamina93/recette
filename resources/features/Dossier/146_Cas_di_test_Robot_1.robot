@@ -1,6 +1,6 @@
-# Automation priority: 0
+# Automation priority: 28000
 # Automation status: TRANSMITTED
-# Test case importance: MEDIUM
+# Test case importance: HIGH
 *** Settings ***
 Resource        resources/selenium.robot
 Resource        resources/database.robot

@@ -1,6 +1,6 @@
-# Automation priority: 5000000
+# Automation priority: -355000
 # Automation status: TRANSMITTED
-# Test case importance: HIGH
+# Test case importance: MEDIUM
 *** Settings ***
 Resource            demoXml-resources.robot
 Documentation       Simple script to try Robot Framework on an xml file.
